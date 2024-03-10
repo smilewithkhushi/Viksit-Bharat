@@ -1,8 +1,9 @@
-import React from "react";
+
 import Image from "next/image";
+
 const Footer = () => {
   return (
-    <footer className="relative bg-blueGray-200 text-white pt-8 pb-6">
+    <footer className="relative bg-gradient-to-tr from-lime-400 via-emerald-500 to-teal-700s text-white pt-8 pb-6">
       <div className="container mx-auto px-4">
         <div className="flex flex-wrap text-left lg:text-left">
           <div className="w-full lg:w-8/12 px-4">

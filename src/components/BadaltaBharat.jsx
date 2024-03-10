@@ -1,4 +1,3 @@
-import next from "next";
 
 const BadaltaBharat = () => {
   return (
