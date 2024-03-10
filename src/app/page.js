@@ -14,17 +14,17 @@ export default function Home() {
       <PrimaryNavbar />
       <Header />
       <Glimpse />
-      <section id="#videos">
+      {/* <section id="#videos"> */}
         <BadaltaBharat />
-      </section>
+      {/* </section>
 
-      <section id="#gallery">
+      <section id="#gallery"> */}
         <StudentCreation />
-      </section>
+      {/* </section>
 
-      <section id="#pledge">
+      <section id="#pledge"> */}
         <Pledge />
-      </section>
+      {/* </section> */}
 
       <Schemes />
       <Footer />

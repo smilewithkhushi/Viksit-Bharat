@@ -12,8 +12,8 @@ const Header = () => {
 
         <Image
           src="/assets/rajgurulogo.png"
-          width={100}
-          height={100}
+          width={80}
+          height={80}
           alt="Shaheed Rajguru college logo"
         />
 
@@ -37,7 +37,7 @@ const Header = () => {
           alt="Viksit Bharat logo"
         /> */}
 
-      <Image src="/assets/NSSLogo.png" width={100} height={100} alt="NSS logo" />
+      <Image src="/assets/NSSLogo.png" width={80} height={80} alt="NSS logo" />
     </div>
   );
 };
