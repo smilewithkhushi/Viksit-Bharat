@@ -9,7 +9,7 @@ const BadaltaBharat = () => {
         <div className="md:w-1/2 flex mx-6 align-middle justify-center">
 
           <iframe
-            width="460"
+            width="420"
             height="300"
             src="https://www.youtube.com/embed/6G-pfT7g3bM"
             title="Adressed by PM Narendra Modi Ji"
